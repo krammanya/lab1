@@ -17,7 +17,10 @@
 - \begin{center}...\end{center} -выравнивание по центру
 
 ## Пример верстки файла:
--[main.tex](https://github.com/krammanya/lab1/blob/main/main.tex)
+![]()
+
+## Пример кода
+[main.tex](https://github.com/krammanya/lab1/blob/main/main.tex)
 
 # Лабораторная работа №3
 
